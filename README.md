@@ -1,9 +1,9 @@
 <div>
-  <h1 align="center">Olá, Tudo bem? Eu sou o <a text-decoration="none" href="https://www.linkedin.com/in/diego-dessoti/"><i>Diego Dessoti</i></a> 😃️
+  <h1 align="center">Hello! How are you? I am <a text-decoration="none" href="https://www.linkedin.com/in/diego-dessoti/"><i>Diego Dessoti</i></a> 😃️
   </h1>
-  <p align="center">Seja bem-vindo ao meu perfil do GitHub 
+  <p align="center">Welcome to my GitHub profile. 
   </p>
-  <p align="center">Aqui apresento um pouco sobre meu conhecimento em tecnologias como Java, javascript, typescript e entre outras 
+  <p align="center">Here's a brief overview of my knowledge in technologies like Java, Angular, React, and others.
   </p>
   
 </div>
