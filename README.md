@@ -1,8 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1E90FF&section=header&reversal=false&textBg=false">
 
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1E90FF&center=true&random=false&width=435&lines=Hello%2C+I'm+Diego;I'm+Brazilian;I'm+19+years+old;And+I+like+to+code+%3A)" alt="Typing SVG" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Diego-Dessoti&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+</div>
 
 <div align="end">
 <a href="https://www.linkedin.com/in/diego-dessoti/">
