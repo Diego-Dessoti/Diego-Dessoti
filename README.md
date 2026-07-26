@@ -1,40 +1,78 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1E90FF&section=header&reversal=false&textBg=false">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Diego%20Dessoti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack&descAlignY=55&descSize=18" width="100%"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1E90FF&center=true&random=false&width=435&lines=Hello%2C+I'm+Diego;I'm+Brazilian;I'm+19+years+old;And+I+like+to+code+%3A)" alt="Typing SVG" /></a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Diego-Dessoti&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Apaixonado+por+Tecnologia+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+Angular+%7C+Flutter;Sempre+Aprendendo+e+Evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<div align="end">
-<a href="https://www.linkedin.com/in/diego-dessoti/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat">
-</a>
-<a href="https://www.instagram.com/diego_dessoti/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat">
-</a>
-</div>
+## 🚀 Sobre Mim
 
-<div align="center" style="margin-top: 50px">
-    Skils:
-</div>
+Olá! Me chamo **Diego Dessoti** e sou desenvolvedor **Full-Stack**.
 
-<div align="center">
-<a><img width="30" src="https://github.com/Diego-Dessoti/Diego-Dessoti/blob/main/flutter.png?raw=true"></a>
-<a><img width="40" src="https://github.com/Diego-Dessoti/Diego-Dessoti/blob/main/react.png?raw=true"></a>
-<a><img width="30" src="https://github.com/Diego-Dessoti/Diego-Dessoti/blob/main/firebase.png?raw=true"></a>
-<a><img width="40" src="https://github.com/Diego-Dessoti/Diego-Dessoti/blob/main/angular.png?raw=true"></a>
-<a><img width="30" src="https://github.com/Diego-Dessoti/Diego-Dessoti/blob/main/laravel.png?raw=true"></a>
-<a><img width="40" src="https://github.com/Diego-Dessoti/Diego-Dessoti/blob/main/php.png?raw=true"></a>
-<a><img width="35" src="https://github.com/Diego-Dessoti/Diego-Dessoti/blob/main/vue.png?raw=true"></a>
+## 🛠️ Habilidades Técnicas
+ 
+### Back-end
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate / JPA"/>
+  <img src="https://skillicons.dev/icons?i=maven" title="Maven"/>
+</p>
 
-<a>
-<img width="100" src="https://github.com/Diego-Dessoti/Diego-Dessoti/blob/main/mysql.png?raw=true">
-</a>
+### Mensageria & Cache
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ"/>
+  <img src="https://skillicons.dev/icons?i=kafka" title="Apache Kafka"/>
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
+</p>
 
+### Front-end & Mobile
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React"/>
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter"/>
+</p>
 
-</div>
+### Banco de Dados & Ferramentas
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA"/>
+</p>
 
-<div></div>
+## 📊 Estatísticas do GitHub
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=1E90FF&section=footer&reversal=false&textBg=false">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Diego-Dessoti&show_icons=true&hide_border=true&bg_color=00000000&title_color=2A5298&icon_color=2A5298" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Dessoti&layout=compact&hide_border=true&bg_color=00000000&title_color=2A5298" height="165"/>
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=Diego-Dessoti&theme=transparent&stroke=2A5298&ring=2A5298&fire=2A5298&currStreakLabel=2A5298&hide_border=true"/>
+</p>
+
+## 📫 Vamos nos Conectar
+
+<p>
+  <a href="https://www.linkedin.com/in/diego-dessoti/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" title="Meu LinkedIn"/>
+  </a>
+  <a href="mailto:didessotipimentel@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" title="Enviar e-mail"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Diego-Dessoti&label=Profile%20Views&style=for-the-badge&color=2a5298"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
