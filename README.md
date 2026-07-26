@@ -52,11 +52,6 @@ Olá! Me chamo **Diego Dessoti** e sou desenvolvedor **Full-Stack**.
 ## 📊 Estatísticas do GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Diego-Dessoti&show_icons=true&hide_border=true&bg_color=00000000&title_color=2A5298&icon_color=2A5298" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Dessoti&layout=compact&hide_border=true&bg_color=00000000&title_color=2A5298" height="165"/>
-</p>
-
-<p>
   <img src="https://streak-stats.demolab.com/?user=Diego-Dessoti&theme=transparent&stroke=2A5298&ring=2A5298&fire=2A5298&currStreakLabel=2A5298&hide_border=true"/>
 </p>
 
